@@ -1,0 +1,15 @@
+{
+    "filtered_processes": [
+        "GameBar.exe",
+        "GameBarFTServer.exe",
+        "GameOverlayUI.exe",
+        "NVIDIA Overlay.exe",
+        "NVIDIA Share.exe",
+        "RTSS.exe",
+        "TabTip.exe",
+        "GameViewerServer.exe"
+    ],
+    "filtered_classes": [
+        "Progman"
+    ]
+}

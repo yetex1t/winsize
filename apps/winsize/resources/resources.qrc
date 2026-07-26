@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/styles">
+        <file alias="fluent.qss">styles/fluent.qss</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file alias="winsize.png">icons/winsize.png</file>
+        <file alias="spin_up.png">icons/spin_up.png</file>
+        <file alias="spin_down.png">icons/spin_down.png</file>
+    </qresource>
+</RCC>
